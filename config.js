@@ -12,7 +12,7 @@ const CONFIG = {
     question:'Trên thế giới hơn 7 tỉ người mà sao lại có hack cơ bống <3',
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'hack cơ mà lị <3 ',
+    mess: 'hack cơ mà lị kakaka <3 ',
     messDesc: 'tí ra ngõ nha hack cơ gcoi.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/bopdz123/
